@@ -1,0 +1,10 @@
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\bin\Debug\C-SharpCPUMonitor.exe.config
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\bin\Debug\C-SharpCPUMonitor.exe
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\bin\Debug\C-SharpCPUMonitor.pdb
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C-SharpCPUMonitor.csprojAssemblyReference.cache
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C_SharpCPUMonitor.Form1.resources
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C_SharpCPUMonitor.Properties.Resources.resources
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C-SharpCPUMonitor.csproj.GenerateResource.cache
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C-SharpCPUMonitor.csproj.CoreCompileInputs.cache
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C-SharpCPUMonitor.exe
+C:\C#Testing\C-SharpCPUMonitor\C-SharpCPUMonitor\obj\Debug\C-SharpCPUMonitor.pdb
